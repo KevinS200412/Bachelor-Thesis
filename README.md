@@ -77,7 +77,7 @@ After the simulation is complete, source the analysis scripts:
 |---|---|
 | `inspect_full.R` | Bias, RMSE, coverage, KS tests, density plots |
 | `posterior_diagnostics.R` | Skewness, kurtosis, mean/median/mode plots, LaTeX tables |
-| `mgus_application.R` | MGUS empirical application (Table 7 equivalent) |
+| `mgus_application.R` | MGUS empirical application |
 | `paper_replication.R` | Replicates paper tables using a self-made simulation |
 
 ---
